@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'Self-Hosted Ticketing System'
 date: 2016-02-20 15:56:00
 categories: development
 tags: JavaScript AngularJS API Sass
