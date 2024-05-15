@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Latavia Bates."
 email: 'lataviabates123@gmail.com'
-description: "I'm an aspiring cybersecurity specialist from Wisconsin."
+description: "I am an undergrad student studying Cybersecurity and Information Assurance at Western Governors University."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lsbates.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
+twitter_username: ''
 github_username: 'lsbates'
-medium_username: 'blog.jamigibbs.com'
+medium_username: ''
 
 # Build settings
 markdown: kramdown
@@ -95,10 +95,10 @@ pagination:
 footer_text: '© 2024 Latavia Bates'
 admin_name: 'Latavia Bates'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/about', text: 'About Me' }
